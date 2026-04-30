@@ -2,7 +2,7 @@
 
 ## Credits
 
-Created by **Magnasium**  
+Created by **Gromval**  
 Free to use, edit and share.
 
 Credits are appreciated but not required.
@@ -15,7 +15,7 @@ We are building a FiveM server and community.
 Feel free to join us on Discord: magnasium
 
 🔗 https://discord.gg/glrpg
-https://discord.gg/suWMMvT3rX
+https://discord.gg/vb3Psj6mcP
 
 ---
 
